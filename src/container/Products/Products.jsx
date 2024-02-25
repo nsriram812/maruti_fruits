@@ -79,18 +79,18 @@ const Products = () => (
 
 const inStyle = {
   card: {
-    width: 500,
-    height: 600,
+    width: 300,
+    height: 300,
     '@media (max-width: 768px)': {
       width: '100%',
       height: 'auto',
     },
   },
   cardMedia: {
-    height: 500,
+    height: 250,
   },
   typography: {
-    fontSize: '2rem',
+    fontSize: '1.2rem',
     color: 'grey',
     fontWeight: '700',
     fontStretch: 'condensed',

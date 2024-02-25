@@ -107,18 +107,18 @@
     line-height: 67px;
   }
   .p__opensans_white {
-    font-size: 35px;
+    font-size: 25px;
     font-weight:700;
-    line-height: 50px;
+    line-height: 35px;
     color: whitesmoke;
-    padding-left: 100px;
+    
     
   }
   .p__opensans {
-    font-size: 32px;
-    line-height: 50px;
+    font-size: 25px;
+    line-height: 35px;
     color: rgba(95, 98, 84, 0.926);
-    font-weight: 600;
+    font-weight: 800;
     font-stretch: condensed;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
@@ -138,13 +138,15 @@
     font-weight:700;
     line-height: 50px;
     color: whitesmoke;
+    font-stretch: condensed;
+    
     
   }
   .p__opensans {
-    font-size: 30px;
-    line-height: 50px;
+    font-size: 20px;
+    line-height: 35px;
     color: rgba(85, 87, 87, 0.926);
-    font-weight: 300;
+    font-weight: 700;
     font-stretch: condensed;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
@@ -166,12 +168,19 @@
     width: 100%;
   }
   .p__opensans {
-    font-size: 30px;
-    line-height: 50px;
+    font-size: 20px;
+    line-height: 40px;
     color: rgba(85, 87, 87, 0.926);
-    font-weight: 300;
+    font-weight: 800;
     font-stretch: condensed;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /*font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;*/
+  }
+  .p__opensans_white {
+    font-size: 20px;
+    font-weight:700;
+    line-height: 40px;
+    color: whitesmoke;
+    
   }
 }
 
@@ -196,7 +205,7 @@
   }
 
   .p__opensans {
-    font-size: 14px;
+    font-size: 20px;
   }
 }
 
@@ -204,10 +213,12 @@
   .p__opensans_white {
     font-size: 12px;
     color: whitesmoke;
+    line-height: 40px;
     
   }
   .p__opensans {
-    font-size: 12px;
+    font-size: 20px;
+    line-height:40px;
   }
 
   .p__cormorant {

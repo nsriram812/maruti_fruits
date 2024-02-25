@@ -57,7 +57,7 @@
 @media screen and (max-width: 1150px) {
     .app__laurels_awards {
         padding:0;
-        
+        grid-gap: 0;
     }
 }
 
