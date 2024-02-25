@@ -14,8 +14,8 @@ const Footer = () => (
         <p className="p__opensans_white">Maruti Fruit Canning Industries</p>  
         <p className="p__opensans_white">Gajulapalli, Via Aragonda,</p> 
         <p className="p__opensans_white">Andhra Pradesh 517129, India </p>    
-        <p className="p__opensans_white">+91-9866451769</p>    
-        <p className="p__opensans_white">+91-9492759999</p>      
+        <p className="p__opensans_white">+91-9866451769, 9492759999</p>    
+        <p className="p__opensans_white" style={{textDecoration: 'underline'}}>lokesh_maruti@yahoo.com</p>      
       </div>
       <div className="app__footer-links_logo">
         <img src={images.mango} alt="footer_logo"/>
